@@ -1,4 +1,4 @@
-# Solution for Problem Statement-1
+# Solution for Problem Statement-2
 
 ***
 
@@ -11,9 +11,9 @@ Follow this format for Naming:
  
 # Example
 
-Format: **Name_SolutionName_Ps-1**
+Format: **Name_SolutionName_Ps-2**
   
-Sample: **H2S_gameofcodes_Ps-1**
+Sample: **H2S_gameofcodes_Ps-2**
 
 ***  
 4. Raise a Pull Request.
