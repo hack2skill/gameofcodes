@@ -1,14 +1,16 @@
-# Gameofcodes
+# GAME OF CODES
+
+![cover2](https://user-images.githubusercontent.com/72146802/155834205-70731a0f-31be-4391-a978-810ee8d151c6.jpg)
 
 # How to Register in Gameofcode
 
 Step1: Register yourself in our website
 
-https://hack2skill.com/
+https://hack2skill.com/hack/goc?utm_source=personal&utm_medium=cmt
 
 Step2: Join our discord server
 
-https://discord.gg/S8uc68adbw
+https://bit.ly/H2S-Discord-Community
 
 Step3: Follow our github organization
 
@@ -40,4 +42,5 @@ Step7: Compete with others by making a PR in our repository
 Step8: Give your Feedbacks
 
 Step9: Stay connected
+
 
