@@ -1,5 +1,25 @@
-# Problem Statement-1
+# Solution for Problem Statement-1
 
-![cover2](https://user-images.githubusercontent.com/72146802/155834307-4a57615a-9a97-473d-92e2-7932c425e9e8.jpg)
+***
 
-Will be updated 5 mins before the competition starts
+1. Fork this repository.
+2. Add the folder with your name in it.
+
+***
+
+Follow this format for Naming:
+ 
+# Example
+
+Format: **Name_SolutionName_Ps-1**
+  
+Sample: **H2S_gameofcodes_Ps-1**
+
+***  
+4. Raise a Pull Request.
+5. Wait for Experts to accept it
+6. Thank You for your participation 
+
+***
+
+## All The Best Everyone ;)
