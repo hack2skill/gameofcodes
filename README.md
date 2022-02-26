@@ -1,20 +1,29 @@
 # Gameofcodes
 
-# How to Register in GameofCode
+# How to Register in Gameofcode
 
 Step1: Register yourself in our website
+
 Step2: Join our discord server
+
 Step3: Follow our github organization
+
 Step4: Read the guidelines
+
 Step5: Attend the AMA Session
+
 Step6: Be active in our discord server
+
 Step7: Compete with others by making a PR in our repository
+
 Step8: Give your Feedbacks
+
 Step9: Stay connected
 
 ## Guidelines for the participants:
 
 Participant should register for the competition in our website.
+
 Should join our discord server.
 Participants can participate individually only.
 Please refrain from discussing strategy during the contest.
