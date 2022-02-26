@@ -12,9 +12,9 @@ https://discord.gg/S8uc68adbw
 
 Step3: Follow our github organization
 
+https://github.com/hack2skill
 
 Step4: Read the guidelines
-
 ***
 
 ## Guidelines for the participants:
@@ -29,7 +29,6 @@ Step4: Read the guidelines
 8. The decisions of the panel will be final and binding in all forms.
 
 ***
-
 
 Step5: Attend the AMA Session
 
