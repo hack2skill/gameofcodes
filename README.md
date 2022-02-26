@@ -6,15 +6,15 @@
 
 Step1: Register yourself in our website
 
-###### https://hack2skill.com/hack/goc?utm_source=personal&utm_medium=cmt
+[HACK2SKILL Website](https://hack2skill.com/hack/goc?utm_source=personal&utm_medium=cmt) 
 
 Step2: Join our discord server
 
-###### https://bit.ly/H2S-Discord-Community
+[HACK2SKILL Discord Server](https://bit.ly/H2S-Discord-Community)
 
 Step3: Follow our github organization
 
-###### https://github.com/hack2skill
+[HACK2SKILL GitHub Organization](https://github.com/hack2skill)
 
 Step4: Read the guidelines
 ***
@@ -42,5 +42,3 @@ Step7: Compete with others by making a PR in our repository
 Step8: Give your Feedbacks
 
 Step9: Stay Connected
-
-
