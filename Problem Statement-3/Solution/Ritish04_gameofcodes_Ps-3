@@ -1,0 +1,48 @@
+#include <iostream>
+using namespace std;
+// Recursive function to return gcd of a and b
+int gcd(int a, int b,int arr[])
+{
+//     	int arr[n];
+//     for(i=0;i<n;i++){
+// 	    cin>>arr[i];
+// 	}
+int i=0;
+a=arr[i];
+ b=arr[i+1];
+	if (a == 0)
+	return b;
+	if (b == 0)
+	return a;
+
+	if (a == b)
+		return a;
+
+	if (a > b)
+		return gcd(a-b, b,arr);
+	return gcd(a, b-a,arr);
+}
+
+int main()
+{
+	int n;
+	int i;
+	cin>>n;
+	int arr[n];
+	int count=0;
+// 	for(i=0;i<n;i++){
+// 	    cin>>arr[i];
+// 	}
+	int a,b;
+	for( i=0;i<n;i++){
+	   //  a=arr[i];
+	   // b=arr[i+1];
+	    gcd(a,b,arr);
+	    //cout<<"GCD of "<<a<<" and "<<b<<" is "<<gcd(a,b);
+	}
+if(gcd(a,b,arr)==1){count++;
+      return count;
+}
+ return -1;
+
+}
