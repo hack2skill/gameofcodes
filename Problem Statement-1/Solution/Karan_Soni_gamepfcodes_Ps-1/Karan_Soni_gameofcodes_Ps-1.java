@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class h2c {
+public class h2s {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int test_case = sc.nextInt();
