@@ -19,7 +19,7 @@ int main(){
         problemSolved+=n/b;
 
         //divisible by a and b
-        problemSolved-=2*n/(a*b);
+        problemSolved-=2*n*__gcd(a,b)/(a*b);
 
         if (problemSolved>=k){
             cout<<"Win"<<endl;
