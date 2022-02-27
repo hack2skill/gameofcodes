@@ -1,0 +1,43 @@
+// C++ program for the above approach
+#include <bits/stdc++.h>
+using namespace std;
+
+
+bool isPalindrome(string S)
+{
+	
+	for (int i = 0; i < n / 2; i++) {
+
+		
+
+		if (S[i] != S[n - i - 1]) {
+		
+			return false;
+		}
+	}
+
+	return true;
+}
+
+
+int main()
+{
+	int n;
+  cin>>n;
+  string S;
+  cin>>S;
+	cout << isPalindrome(S);
+int depth =0;
+while(n%2!=0){
+if((n%2==0)&& (isPalindrome){
+n=n/2;
+depth++;
+string s1=s;
+}
+
+}
+return depth;
+cout<<endl;
+cout<<s1<<endl;
+	return 0;
+}
