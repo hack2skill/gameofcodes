@@ -1,0 +1,19 @@
+(d,g,n,a,c,s)=input().split(" ")
+d=int(d)
+g=int(g)
+n=int(n)
+a=int(a)
+c=int(c)
+s=int(s)
+
+b=0
+for i in range(d):
+    for i in range (g,n+1):
+        if i%a==0 and i%c!=0:
+            b+=1
+        elif i%c==0 and i%a!=0:
+            b+=1
+if b==s or f>=s:
+    print("win")
+else:
+    print("lose")
