@@ -1,0 +1,19 @@
+#python 3
+(t,s,n,a,b,k)=input().split(" ")
+t=int(t)
+s=int(s)
+n=int(n)
+a=int(a)
+b=int(b)
+k=int(k)
+f=0
+for i in range(t):
+    for i in range (s,n+1):
+        if i%a==0 and i%b!=0:
+            f+=1
+        elif i%b==0 and i%a!=0:
+            f+=1
+if f==k or f>=k:
+    print("win")
+else:
+    print("lose")
