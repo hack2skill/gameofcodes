@@ -28,7 +28,7 @@ int main()
             cout << "Win" << endl;
         }
         else
-            cout << "No" << endl;
+            cout << "Lose" << endl;
     }
     return 0;
 }
